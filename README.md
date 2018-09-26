@@ -1,2 +1,2 @@
 # hello-world
-It's brave new world!
+It's a brave new world!
